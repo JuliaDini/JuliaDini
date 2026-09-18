@@ -20,7 +20,7 @@
 
 <!-- Animação de digitação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9a57ff&center=true&vCenter=true&width=800&lines=Júlia+de+Oliveira+Dini;do+2º+de+Desenvolvimento+de+Sistemas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9a57ff&center=true&vCenter=true&width=800&lines=Júlia+de+Oliveira+Dini;do+3º+de+Desenvolvimento+de+Sistemas" />
 </p>
 
 <p align="center">
