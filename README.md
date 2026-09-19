@@ -1,6 +1,6 @@
 <!-- Banner ondulado -->
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3c0194,100:9f68f2&height=200&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3c0194,100:9f68f2&height=200&section=header" width="100%"/>
 </p>
 
 <!-- Lacinhos e nome -->
@@ -9,18 +9,18 @@
 </p>
 
 <p align="center">
-  <strong>Olá!  <span style="color:#F48FB1;">Bem vindo(a) ao meu Portifólio!</span></strong>
+  <strong>Olá!  <span style="color:#F48FB1;">Bem-vindo(a) ao meu Portfólio!</span></strong>
 </p>
 <p align="center">
   ___________________________________________  
 </p>
 <p align="center">
-  <strong>Sou <span style="color:#F48FB1;">a: </span></strong>  
+  <strong>Sou a: </strong>  
 </p>
 
 <!-- Animação de digitação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9a57ff&center=true&vCenter=true&width=800&lines=Júlia+de+Oliveira+Dini;do+3º+de+Desenvolvimento+de+Sistemas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9a57ff&center=true&vCenter=true&width=800&lines=J%C3%BAlia+de+Oliveira+Dini;Estudante+do+3º+Desenvolvimento+de+Sistemas;Estagi%C3%A1ria+de+Administra%C3%A7%C3%A3o" />
 </p>
 
 <p align="center">
@@ -29,23 +29,25 @@
 
 ---
 
-## 📚 Sumário de Palestras
-- [Introdução](#introdução)
-- [Palestras de 2024](#palestras-de-2024)
-- [Palestras de 2025](#palestras-de-2025)
-- [Conclusão](#conclusão)
-- [Contato](#contato)
+## 📚 Sumário de Palestras e Certificados
+- [Introdução](#-introdução)
+- [Palestras de 2024](#-palestras-de-2024)
+- [Palestras de 2025](#-palestras-de-2025)
+- [Palestras de 2026](#-palestras-de-2026)
+- [Certificados](#-certificados)
+- [Conclusão](#-conclusão)
+- [Contato](#-contato)
 
 ---
 
 ## 📍 Introdução
-> 💡 **Bem-vindo(a) ao meu portfólio de palestras!**
+> 💡 **Bem-vindo(a) ao meu portfólio de palestras e certificações!**
 
-Este espaço reúne os **aprendizados e experiências** das palestras que participei entre **2024 e 2025**.  
-Além dos resumos, compartilho **insights práticos e reflexões pessoais** que mostram como aplicar os conhecimentos no mercado de trabalho.
+Atualmente sou estudante do **3º ano de Desenvolvimento de Sistemas na ETEC Fernando Prestes** e atuo como **Estagiária de Administração na Prefeitura Municipal de Sorocaba** (Divisão de Licitação).
 
-Organizei as palestras em **ordem cronológica**, formando uma **linha do tempo do aprendizado**.  
-Cada encontro ampliou minha visão sobre **tecnologia, inovação, produtividade e desenvolvimento pessoal**.
+Este espaço reúne os **aprendizados, experiências e certificações** adquiridos através das palestras e capacitações das quais participei entre **2024 e 2026**. Além dos resumos, compartilho **insights práticos e reflexões pessoais** que mostram como aplico esses conhecimentos na minha jornada de desenvolvimento pessoal e profissional em TI.
+
+Organizei os conteúdos em **ordem cronológica**, formando uma **linha do tempo de aprendizado contínuo**.
 
 ---
 
@@ -56,7 +58,7 @@ Cada encontro ampliou minha visão sobre **tecnologia, inovação, produtividade
 > Palestra destacando a importância da criatividade e adaptação às mudanças do mercado.
 
 <p align="center">
-  <img src="./fotosP/2024p/08-04-2024.jpg" alt="palestra 08/04/2025" width="400"/>
+  <img src="./fotosP/2024p/08-04-2024.jpg" alt="palestra 08/04/2024" width="400"/>
 </p>
 
 ---
@@ -151,7 +153,7 @@ Cada encontro ampliou minha visão sobre **tecnologia, inovação, produtividade
 
 ---
 
-### 🌍 17/10/2024 – Fundação Iochpe 
+### 🌍 17/10/2024 – Fundação Iochpe  
 **Tema:** Preparando-se para o amanhã  
 > Flávia Freitas destacou como transformar experiências acadêmicas em oportunidades globais.
 
@@ -176,7 +178,6 @@ Cada encontro ampliou minha visão sobre **tecnologia, inovação, produtividade
 ### 💻 16/04/2025 – ITIX  
 **Tema:** Carreira e Suporte na Prática  
 > Bate-papo com profissionais da ITIX sobre os desafios do mercado.
-
 
 ---
 
@@ -238,7 +239,7 @@ Cada encontro ampliou minha visão sobre **tecnologia, inovação, produtividade
 
 ### 🤖 16/09/2025 – Eduzz  
 **Tema:** Inteligência Artificial na Prática  
-> Palestra **online pelo Teams** com **Daiany Santos** e **Lucas Lascasas**, destacando aplicações práticas da IA.
+> Palestra online pelo Teams com Daiany Santos e Lucas Lascasas, destacando aplicações práticas da IA.
 
 <p align="center">
   <img src="./16-09-2025.jpg" alt="palestra 16/09/2025" width="400"/>
@@ -246,8 +247,74 @@ Cada encontro ampliou minha visão sobre **tecnologia, inovação, produtividade
 
 ---
 
+## 📆 Palestras de 2026
+
+### 🛠️ 10/06/2026 – ITIX  
+**Tema:** Analista de Suporte na Prática  
+> Abordagem sobre tipos de suporte, desafios da gestão, tipos de chamado, fluxo de atendimento e suporte focado em TI.
+
+<p align="center">
+  <img src="./fotosP/2026p/10-06-2026.jpeg" alt="palestra 10/06/2026" width="400"/>
+</p>
+
+---
+
+### 💼 11/08/2026 – ITIX  
+**Tema:** LinkedIn e Currículo  
+> Orientações valiosas sobre como montar um bom perfil no LinkedIn, elaborar um currículo atraente e administrar o repositório no GitHub.
+
+<p align="center">
+  <img src="./fotosP/2026p/11-08-2026.jpeg" alt="palestra 11/08/2026" width="400"/>
+</p>
+
+---
+
+## 🎓 Certificados
+
+### 📜 Atividade de Contextualização Profissional
+> **Instituição:** Fundação Iochpe - Formare  
+> **Emissão:** Novembro / 2024
+
+<p align="center">
+  <img src="./fotosP/2026p/certificado-contextuali.png" alt="Certificado Contextualização Profissional" width="400"/>
+</p>
+
+---
+
+### 📜 Criatividade e Inovação
+> **Instituição:** Fundação Iochpe - Formare  
+> **Emissão:** Junho / 2026
+
+<p align="center">
+  <img src="./fotosP/2026p/certificadoCriatividadeInovacao.png" alt="Certificado Criatividade e Inovação" width="400"/>
+</p>
+
+---
+
+### 📜 1º Desafio 24 Horas de Inovação Global
+> **Instituição:** INOVA CPS  
+> **Data:** 18/03/2026 (Carga horária: 24 horas)  
+> Participação no desafio focado em inovação e resolução de problemas promovido pelo Centro Paula Souza.
+
+<p align="center">
+  <img src="./fotosP/2026p/certificado-24horas.png" alt="Certificado Desafio 24H Inovação CPS" width="400"/>
+</p>
+
+---
+
+### 🏆 Prémio Destaque na Escola - Menção Honrosa (CUCO USP)
+> **Instituição:** Universidade de São Paulo (USP / IFSC) - Programa Vem Saber  
+> **Emissão:** 09/09/2025  
+> Reconhecimento pelo desempenho na 9ª Edição da Competição USP de Conhecimentos e Oportunidades (CUCO).
+
+<p align="center">
+  <img src="./fotosP/2026p/certificado-cuco.png" alt="Certificado Menção Honrosa CUCO USP" width="400"/>
+</p>
+
+---
+
 ## 🏆 Conclusão
-Essas experiências foram fundamentais para meu desenvolvimento acadêmico e profissional, ampliando meu **conhecimento em TI** e fortalecendo minhas habilidades para os desafios do futuro.
+Essas experiências e certificações foram fundamentais para o meu desenvolvimento acadêmico e profissional, ampliando o meu **conhecimento em TI** e fortalecendo as minhas habilidades para os desafios do futuro.
 
 > _“A educação é a arma mais poderosa que você pode usar para mudar o mundo.” – Nelson Mandela_
 
@@ -255,7 +322,8 @@ Essas experiências foram fundamentais para meu desenvolvimento acadêmico e pro
 
 ## 📬 Contato
 - **GitHub:** [JuliaDini](https://github.com/JuliaDini)
+- **LinkedIn:** [Júlia de Oliveira Dini](https://www.linkedin.com/in/júlia-de-oliveira-dini-588894437)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3c0194,100:9f68f&height=160&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3c0194,100:9f68f2&height=160&section=footer" width="100%"/>
 </p>
